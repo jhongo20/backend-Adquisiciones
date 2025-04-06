@@ -76,8 +76,22 @@ namespace AdquisicionesApp.Data.Repositories
 
         public async Task<int> CreateAsync(Adquisicion adquisicion)
         {
+            adquisicion.FechaCreacion = DateTime.Now;
             _context.Adquisiciones.Add(adquisicion);
             await _context.SaveChangesAsync();
+
+            // Registrar creación en el historial
+            _context.HistorialAdquisiciones.Add(new HistorialAdquisicion
+            {
+                AdquisicionId = adquisicion.Id,
+                CampoModificado = "Creación",
+                ValorAnterior = "",
+                ValorNuevo = "Adquisición creada",
+                FechaModificacion = DateTime.Now,
+                UsuarioModificacion = "Sistema"
+            });
+            await _context.SaveChangesAsync();
+
             return adquisicion.Id;
         }
 
@@ -138,7 +152,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "Presupuesto",
                     ValorAnterior = existingEntity.Presupuesto.ToString(),
                     ValorNuevo = newEntity.Presupuesto.ToString(),
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema" // En un sistema real, usarías el usuario autenticado
                 });
             }
 
@@ -150,11 +165,11 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "Unidad",
                     ValorAnterior = existingEntity.Unidad,
                     ValorNuevo = newEntity.Unidad,
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
-            // Continuar con las demás propiedades...
             if (existingEntity.TipoBienServicio != newEntity.TipoBienServicio)
             {
                 _context.HistorialAdquisiciones.Add(new HistorialAdquisicion
@@ -163,7 +178,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "TipoBienServicio",
                     ValorAnterior = existingEntity.TipoBienServicio,
                     ValorNuevo = newEntity.TipoBienServicio,
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
@@ -175,7 +191,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "Cantidad",
                     ValorAnterior = existingEntity.Cantidad.ToString(),
                     ValorNuevo = newEntity.Cantidad.ToString(),
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
@@ -187,7 +204,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "ValorUnitario",
                     ValorAnterior = existingEntity.ValorUnitario.ToString(),
                     ValorNuevo = newEntity.ValorUnitario.ToString(),
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
@@ -199,7 +217,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "FechaAdquisicion",
                     ValorAnterior = existingEntity.FechaAdquisicion.ToString("yyyy-MM-dd"),
                     ValorNuevo = newEntity.FechaAdquisicion.ToString("yyyy-MM-dd"),
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
@@ -211,7 +230,8 @@ namespace AdquisicionesApp.Data.Repositories
                     CampoModificado = "Proveedor",
                     ValorAnterior = existingEntity.Proveedor,
                     ValorNuevo = newEntity.Proveedor,
-                    FechaModificacion = DateTime.Now
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
 
@@ -221,9 +241,23 @@ namespace AdquisicionesApp.Data.Repositories
                 {
                     AdquisicionId = existingEntity.Id,
                     CampoModificado = "Documentacion",
-                    ValorAnterior = existingEntity.Documentacion,
-                    ValorNuevo = newEntity.Documentacion,
-                    FechaModificacion = DateTime.Now
+                    ValorAnterior = existingEntity.Documentacion ?? "Sin documentación",
+                    ValorNuevo = newEntity.Documentacion ?? "Sin documentación",
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
+                });
+            }
+
+            if (existingEntity.Activo != newEntity.Activo)
+            {
+                _context.HistorialAdquisiciones.Add(new HistorialAdquisicion
+                {
+                    AdquisicionId = existingEntity.Id,
+                    CampoModificado = "Estado",
+                    ValorAnterior = existingEntity.Activo ? "Activo" : "Inactivo",
+                    ValorNuevo = newEntity.Activo ? "Activo" : "Inactivo",
+                    FechaModificacion = DateTime.Now,
+                    UsuarioModificacion = "Sistema"
                 });
             }
         }

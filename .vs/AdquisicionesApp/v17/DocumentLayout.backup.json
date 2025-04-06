@@ -5,6 +5,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|solutionrelative:adquisicionesapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.api\\controllers\\adquisicionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|solutionrelative:adquisicionesapp.api\\controllers\\adquisicionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.data\\adquisicionesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|solutionrelative:adquisicionesapp.data\\adquisicionesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.data\\repositories\\adquisicionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|solutionrelative:adquisicionesapp.data\\repositories\\adquisicionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|solutionrelative:adquisicionesapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63948314-83BD-4D64-82F6-11E23470D64F}|AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.services\\adquisicionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63948314-83BD-4D64-82F6-11E23470D64F}|AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj|solutionrelative:adquisicionesapp.services\\adquisicionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.data\\models\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|solutionrelative:adquisicionesapp.data\\models\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.api\\adquisicionesapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBC8D425-1A19-40EC-B285-6B6B4CB746B2}|AdquisicionesApp.API\\AdquisicionesApp.API.csproj|solutionrelative:adquisicionesapp.api\\adquisicionesapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63948314-83BD-4D64-82F6-11E23470D64F}|AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.services\\adquisicionesapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63948314-83BD-4D64-82F6-11E23470D64F}|AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj|solutionrelative:adquisicionesapp.services\\adquisicionesapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|d:\\users\\jhon\\documentos\\proyecto adres\\prueba de conocimiento\\backend\\adquisicionesapp.data\\adquisicionesapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD14F44D-94F5-436C-827F-AD206B27DF2E}|AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj|solutionrelative:adquisicionesapp.data\\adquisicionesapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,16 +102,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdquisicionesController.cs",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\Controllers\\AdquisicionesController.cs",
+              "RelativeDocumentMoniker": "AdquisicionesApp.API\\Controllers\\AdquisicionesController.cs",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\Controllers\\AdquisicionesController.cs",
+              "RelativeToolTip": "AdquisicionesApp.API\\Controllers\\AdquisicionesController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwIoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:40:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AdquisicionesApp.API\\appsettings.json",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\appsettings.json",
+              "RelativeToolTip": "AdquisicionesApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T21:39:51.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdquisicionService.cs",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Services\\AdquisicionService.cs",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Services\\AdquisicionService.cs",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Services\\AdquisicionService.cs",
+              "RelativeToolTip": "AdquisicionesApp.Services\\AdquisicionService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:39:38.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdquisicionesDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\AdquisicionesDbContext.cs",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Data\\AdquisicionesDbContext.cs",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\AdquisicionesDbContext.cs",
+              "RelativeToolTip": "AdquisicionesApp.Data\\AdquisicionesDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:39:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdquisicionRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\Repositories\\AdquisicionRepository.cs",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Data\\Repositories\\AdquisicionRepository.cs",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\Repositories\\AdquisicionRepository.cs",
+              "RelativeToolTip": "AdquisicionesApp.Data\\Repositories\\AdquisicionRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:39:25.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Adquisicion.cs",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\Models\\Adquisicion.cs",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Data\\Models\\Adquisicion.cs",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\Models\\Adquisicion.cs",
+              "RelativeToolTip": "AdquisicionesApp.Data\\Models\\Adquisicion.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:38:43.506Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\Program.cs",
               "RelativeDocumentMoniker": "AdquisicionesApp.API\\Program.cs",
               "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\Program.cs",
               "RelativeToolTip": "AdquisicionesApp.API\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T15:29:45.865Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdquisicionesApp.Services.csproj",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj",
+              "RelativeToolTip": "AdquisicionesApp.Services\\AdquisicionesApp.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T15:51:28.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdquisicionesApp.Data.csproj",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj",
+              "RelativeDocumentMoniker": "AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj",
+              "RelativeToolTip": "AdquisicionesApp.Data\\AdquisicionesApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T15:51:20.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdquisicionesApp.API.csproj",
+              "DocumentMoniker": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\AdquisicionesApp.API.csproj",
+              "RelativeDocumentMoniker": "AdquisicionesApp.API\\AdquisicionesApp.API.csproj",
+              "ToolTip": "D:\\Users\\Jhon\\Documentos\\Proyecto Adres\\Prueba de conocimiento\\Backend\\AdquisicionesApp.API\\AdquisicionesApp.API.csproj",
+              "RelativeToolTip": "AdquisicionesApp.API\\AdquisicionesApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T15:48:28.77Z"
             }
           ]
         }

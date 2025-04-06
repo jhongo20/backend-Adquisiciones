@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdquisicionesApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+593060097ea61a958ba39f2ba8bb4696ff82a5b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdquisicionesApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdquisicionesApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

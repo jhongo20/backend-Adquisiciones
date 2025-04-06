@@ -8,7 +8,13 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+//builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    //options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+    // O puedes usar esta opción más simple pero menos eficiente:
+     options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+});
 
 // Configurar DbContext con SQLite (puedes cambiar a SQL Server o PostgreSQL según necesites)
 builder.Services.AddDbContext<AdquisicionesDbContext>(options =>

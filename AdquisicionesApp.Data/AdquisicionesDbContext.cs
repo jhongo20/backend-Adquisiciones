@@ -17,7 +17,7 @@ namespace AdquisicionesApp.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Configuraciones adicionales
+            // Configuración de la relación entre Adquisicion y HistorialAdquisicion
             modelBuilder.Entity<Adquisicion>()
                 .HasMany(a => a.Historial)
                 .WithOne(h => h.Adquisicion)

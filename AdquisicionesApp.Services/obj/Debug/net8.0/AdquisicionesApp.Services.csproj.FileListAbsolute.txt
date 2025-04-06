@@ -13,3 +13,4 @@ D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\Adquisici
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Services\obj\Debug\net8.0\refint\AdquisicionesApp.Services.dll
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Services\obj\Debug\net8.0\AdquisicionesApp.Services.pdb
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Services\obj\Debug\net8.0\ref\AdquisicionesApp.Services.dll
+D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Services\obj\Debug\net8.0\AdquisicionesApp.Services.sourcelink.json

@@ -67,3 +67,5 @@ D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\Adquisici
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.API\obj\Debug\net8.0\AdquisicionesApp.API.pdb
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.API\obj\Debug\net8.0\AdquisicionesApp.API.genruntimeconfig.cache
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.API\obj\Debug\net8.0\ref\AdquisicionesApp.API.dll
+D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.API\obj\Debug\net8.0\AdquisicionesApp.API.sourcelink.json
+D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

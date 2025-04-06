@@ -12,3 +12,4 @@ D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\Adquisici
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Data\obj\Debug\net8.0\AdquisicionesApp.Data.pdb
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Data\obj\Debug\net8.0\AdquisicionesApp.Data.genruntimeconfig.cache
 D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Data\obj\Debug\net8.0\ref\AdquisicionesApp.Data.dll
+D:\Users\Jhon\Documentos\Proyecto Adres\Prueba de conocimiento\Backend\AdquisicionesApp.Data\obj\Debug\net8.0\AdquisicionesApp.Data.sourcelink.json
